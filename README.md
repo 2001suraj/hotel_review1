@@ -29,5 +29,4 @@ samples, guidance on mobile development, and a full API reference.
 <img width="400" alt="Screenshot 2023-03-10 at 4 37 17 PM" src="https://user-images.githubusercontent.com/94772539/224298049-c51b4b3a-bc0d-40c4-9bc6-766baa80a69f.png">
 
 
-# hotel_review1
-# hotel_review1
+
